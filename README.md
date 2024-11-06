@@ -63,6 +63,7 @@ SARSA (State-Action-Reward-State-Action) is typically slower than Q-learning due
 In summary, while both algorithms aim to find optimal policies in an MDP framework, Q-learning generally converges faster due to its off-policy nature and use of maximum future rewards for updates.
 
 Citations:
+
 [1] https://motion.cs.illinois.edu/RoboticSystems/PlanningWithDynamicsAndUncertainty.html
 
 [2] https://repository.gatech.edu/server/api/core/bitstreams/90cbab29-afab-4772-8080-76e8157bbea5/content
