@@ -64,10 +64,17 @@ In summary, while both algorithms aim to find optimal policies in an MDP framewo
 
 Citations:
 [1] https://motion.cs.illinois.edu/RoboticSystems/PlanningWithDynamicsAndUncertainty.html
+
 [2] https://repository.gatech.edu/server/api/core/bitstreams/90cbab29-afab-4772-8080-76e8157bbea5/content
+
 [3] https://apps.dtic.mil/sti/tr/pdf/ADA367893.pdf
+
 [4] https://www.cse.iitm.ac.in/~ravi/courses/Reinforcement%20Learning_files/Solution3.pdf
+
 [5] https://cs.stanford.edu/people/karpathy/reinforcejs/gridworld_dp.html
+
 [6] https://ocw.mit.edu/courses/16-410-principles-of-autonomy-and-decision-making-fall-2010/75e2c8c2cf31b874c239ba2e8126fb35_MIT16_410F10_lec23.pdf
+
 [7] https://www.researchgate.net/publication/221456732_Solving_multiagent_assignment_Markov_decision_processes
+
 [8] https://cdn.aaai.org/ojs/9041/9041-13-12569-1-2-20201228.pdf
